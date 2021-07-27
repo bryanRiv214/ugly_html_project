@@ -1,0 +1,74 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Robot Mono', monospace;
+    color: #f1c749;
+    background-color: #365497;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 50px;
+}
+h2{
+    margin:10px;
+    font-size: 10px;
+}
+
+.list{
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+#starters_image_div{
+    text-align: center;
+}
+#starters_image_div img{
+    border: 3px solid #2f559b;
+    padding: 3px;
+}
+
+.all_pokemon_container{
+    text-align: center;
+    font-weight: bold;
+}
+.all_pokemon_container img{
+    width: 150px;
+}
+
+#bulbasaur_container{
+    background-color: #8cc48e;
+    margin: 20px;
+    border-radius: 20px;
+    border: 3px solid #cfdc9d;
+}
+#charmander_container{
+    background-color: #f2b384;
+    margin: 20px;
+    border-radius: 20px;
+    border: 3px solid #cfdc9d;
+}
+#squirtle_container{
+    background-color: #8ec4ce;
+    margin: 20px;
+    border-radius: 20px;
+    border: 3px solid #cfdc9d;
+}
+
+.pokemon_names{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+}
+.pokemon_description{
+    text-align: left;
+    padding: 20px;
+}
+
+footer{
+    letter-spacing: 3px;
+}
